@@ -756,13 +756,10 @@ premium services
 - [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE streams
 - [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) Reddit - rugby streams
 - [/r/mmafights](https://www.reddit.com/r/mmafights/) Reddit - MMA streams
-- [/r/motorsportsstreams](https://www.reddit.com/r/motorsportsstreams) Reddit - motorsports streams
-- [Best Sport Streaming](https://www.bestsportstreaming.com/) Site that rates sport streaming services
 - [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting
-- [Cricfree](https://crickfree.org/) Offers popular sports streams
+- [Crickfree](https://crickfree.org/) Offers popular sports streams
 - [VIPBox](https://www.vipbox.live/) Many sport streams, TV, friendly UI
 - [MamaHD](https://www.mamahd.org/) 24/7 feeds, sports streams, clean UI
-- [Send It](https://sendit.gg/) Live stream listings for sports, news, gaming, and more.
 - [SportsHD](http://www.speedsports.me) Variety of sports including college sports, clean design
 - [720pStream](http://www.720pstream.me/) Popular sports only, simple design
 - [footybite](https://www.footybite.com/) Soccer streaming site.
@@ -785,33 +782,10 @@ premium services
 - [MioMio](http://www.miomio.tv/) Asian TV shows/anime
 ​
 #### Openload Hosts
-- [MovieZion](https://www.nicemoviezion.pro/) Openload
-- [Vmovee](https://vmovee.me/) Openload (Many outdated/removed links, not updated)
-- [MovieJagg](https://www.coolmoviejagg.pro/) Openload
-- [IWannaWatch](https://www.iwannawatch.is/) Openload, Streamango
-- [UWatchFree](https://www.uwatchfree.tv/) VidPlayer, ViDeoZa
-- [Oakmovies](http://oakmovies.com/) Openload, NT, NY, NW
 - [Vexmovies](http://vexmovies.org/) Openload, NY, NW, MC-2
-- [Openloadmovie](https://openloadmovie.ws/) Openload (some outdated links)
-- [cine.to](https://cine.to/) Openload, Vivo, Streamcloud, Flashx, Streamango
-- [cinebloom](https://www2.cinebloom.com) Openload, Streamango
-- [HDEUROPIX](https://topeuropix.net/) Openload, Rapidvideo
-- [openloadmovies.net](https://openloadmovies.net/) OpenLoad
-- [HD MOVIES](https://hdm.to/) OpenLoad, Streamango, Streamcherry
-- [VodLocker](https://vodlocker.tv/) Openload, Streamango
-- [StreamCouch](https://www2.streamcouch.com/) Openload, Streamango
-- [Qwemovies](https://www3.qwemovies.com/) OpenLoad
-- [movies2k](http://www.movie2k.st) Openload, Streamango, Streamcloud, Rapidvideo, Upvid
-- [xPau.se](http://xpau.se/) Googledrive
-- [Flixanity](https://flixanity.xyz/) Openload, Streamango, hls.22x.cartoonhd.pw (subtitles)
-- [MegaShare](http://megashare9.su) Openload
-- [XMovies8](https://xmovies8.ru/) Openload, FServer, PTServer
-- [IceFilms](http://www.icefilms.info/) Openload, FileUpload
-- [FilmXY](https://www.filmxy.nl/) RapidVideo, Vidoza, Uptostream (offers download links)
-- [1Movies](http://1movies.nl) Openload, FServer
-- [WatchFullMovie](http://watchfullmovie.co) Openload
+- [openloadmovies.net](https://openloadmov.net/) OpenLoad
+- [FilmXY](https://www.filmxy.pw/) RapidVideo, Vidoza, Uptostream (offers download links)
 - [FMOVIES](https://www3.fmovies.to/) Openload, MyCloud, RapidVideo, Streamango
-- [WatchFree](https://watchfree.at/) Openload, FServer
 - [pahe.in](https://pahe.in/) Uptostream, Google Drive, Openload, Mega
 - [megaDDL](https://megaddl.co/) Mega, Go4up, 1Fichier, NitroFlare, Openload
 ​
@@ -1021,7 +995,7 @@ premium services
 - [/r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing) Nintendo Switch hacking & homebrew subreddit
 - [/r/SwitchHacks](https://www.reddit.com/r/SwitchHacks) Another Nintendo Switch hacking subreddit
 - [/r/ps3homebrew](https://www.reddit.com/r/ps3homebrew/) News, updates, apps, and answers regarding PS3 homebrew!
-- [/r/YuzuPiracy](https://www.reddit.com/r/YuzuPiracy) Links for Yuzu, the open-source Nintendo Switch emulator
+- [/r/NewYuzuPiracy](https://www.reddit.com/r/NewYuzuPiracy) Links for Yuzu, the open-source Nintendo Switch emulator. Original was banned.
 - [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) Fairly active community of PS Vita pirates with guides and releases
 ​
 ## Music
@@ -1035,7 +1009,7 @@ premium services
 ​
 ### Music Streaming
 - [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
-- [Hikarinoakariost](https://hikarinoakariost.info/) Site with Japanese music
+- [Hikarinoakariost](https://hikarinoakari.com) Site with Japanese music
 - [mp3Clan](http://mp3guild.com/) Free music streaming
 - [GoSong](https://gosong.unblocked.gdn/) Streamable MP3s
 - [MP3Juices](https://mp3juices.unblocked.gdn/) MP3 search engine tool which uses YouTube
@@ -1443,13 +1417,9 @@ premium services
 ## Full Movies On
 - [/r/fullmoviesonyoutube](https://www.reddit.com/r/fullmoviesonyoutube/)
 - [/r/fullmovierequest](https://www.reddit.com/r/fullmovierequest/)
-- [/r/Fullmoviesonvimeo](https://www.reddit.com/r/Fullmoviesonvimeo/)
 - [/r/fulltvshowsonyoutube](https://www.reddit.com/r/fulltvshowsonyoutube/)
-- [/r/fulltvshowsonvimeo](https://www.reddit.com/r/fulltvshowsonvimeo/)
 - [/r/fullcartoonsonyoutube](https://www.reddit.com/r/fullcartoonsonyoutube/)
 - [/r/FullLengthFilms](https://www.reddit.com/r/FullLengthFilms/)
-- [/r/FullMoviesDailyMotion](https://www.reddit.com/r/FullMoviesDailyMotion)
-- [/r/1080pMoviesOnline](https://www.reddit.com/r/1080pMoviesOnline)
 - [fullmoviesandtv multireddit](https://www.reddit.com/user/Wiggly_Poop/m/fullmoviesandtv/) All of the above subreddits as a multireddit
 ​
 ## Piracy Blogs and News
@@ -1488,7 +1458,6 @@ premium services
 - [Muximux](https://github.com/mescon/Muximux) A lightweight way to manage your HTPC
 - [Heimdall](https://github.com/linuxserver/Heimdall) An Application dashboard and launcher
 - [Organizr](https://github.com/causefx/Organizr) :star2: HTPC/Homelab Services Organizer - Written in PHP
-- [weboas.is](http://weboas.is/) Homepage for pirates
 - [Anonmasky](https://github.com/Anonmasky/anonmasky.github.io) Anonmasky is a beautiful start page for geeks out there. Clone of weboas.is.
 - [iDashboard-PHP](https://github.com/causefx/iDashboard-PHP) HTPC Dashboard to load website services, written in PHP (predecessor to Organizr)
 - [HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) A fully responsive interface to manage all your favorite software on your Htpc.
@@ -1550,7 +1519,7 @@ premium services
 ​
 ## Adult Content
 - [Reddit Doesn't Like This Site](https://www.reddit-doesnt-like-this.site/) :star2: List of full length porn tube websites.
-- [Thotsbay](https://forum.thotsbay.com) Leaked premium adult content.
+- [Simpcity](https://simpcity.su) Leaked premium adult content
 ​
 ## Miscellaneous
 - [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) :star2: List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!

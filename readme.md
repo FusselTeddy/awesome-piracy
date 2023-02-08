@@ -272,6 +272,8 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Whonix](https://www.whonix.org/) Another OS that forces connections through TOR. Comes with Qubes.
 - [Arch Linux](https://archlinux.org/) :star2: A lightweight and flexible Linux® distribution that tries to Keep It Simple. Recommended for those with experience. Uses pacman package manager
 - [Fedora Linux](https://getfedora.org/) :star2: A Linux OS developed by Red Hat. Good for all levels of linux experience. Uses dnf package manager
+- [Nobara OS](https://nobaraproject.org/) A Fedora derivative/fork maintained by GloriousEggroll, who does WINE/Proton fixes. Recommended by r/LinuxGaming
+- [Pika OS](https://pikaos.ferreo.dev/) A ubuntu derivative with Nobara patches.
 - [Linux Mint](https://linuxmint.com/) A Ubuntu derivative designed to be user friendly. Recommended for beginners. Uses apt package manager.
 - [Manjaro](https://manjaro.org/) An arch-based OS with rolling releases designed to be a little bit more user friendly.
 - [EndeavourOS](https://endeavouros.com/) Another arch-based terminal-centric distro with a vibrant and friendly community at its core.
@@ -291,7 +293,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Torznab](https://nzbdrone.readthedocs.io/Implementing-a-Torznab-indexer/) Newznab-like API offering a standardized recent/search API for both TV and movies
 - [torrents-csv.ml](https://torrents-csv.ml) The above torrents.csv hosted. Torrents.csv is a collaborative repository of torrents, consisting of a single, searchable torrents.csv file.
 - [mktorrent](https://github.com/Rudde/mktorrent) mktorrent is a simple command line utility to create BitTorrent metainfo files.
-- [torrent.nz](https://torrent.nz/) Torrent.nz is a magnet torrent search engine.
 - [magnetico](https://github.com/boramalper/magnetico) Autonomous (self-hosted) BitTorrent DHT search engine suite
 ​
 ### Trackers
@@ -732,12 +733,10 @@ premium services
 #### Anime Streaming
 - [Aniyomi](https://github.com/jmir1/aniyomi) :star2: A Tachiyomi fork with anime streaming capabilities. Android Only
 - [CloudStream-3](https://github.com/LagradOst/CloudStream-3) Android app for streaming and downloading Movies, TV-Series and Anime
-- [AnimixPlay](https://animixplay.to) Watch HD anime for free. 
-- [tenshi.moe](https://tenshi.moe) Artificial Heaven. High quality with a smaller library.
+- [marin.moe](https://marin.moe)
 - [9anime](https://9anime.to)
-- [Anime Twist](https://twist.moe)
 - [Zoro.to](https://zoro.to)
-- [hanime](https://hanime.tv)
+- [hanime](https://hanime.tv) NSFW anime
 ​
 #### Cartoons
 - [KissCartoon](https://kisscartoon.ac/) Popular cartoon streaming site
@@ -764,6 +763,7 @@ premium services
 - [720pStream](http://www.720pstream.me/) Popular sports only, simple design
 - [footybite](https://www.footybite.com/) Soccer streaming site.
 - [nflbite](https://nflbite.com) American football streaming site.
+- [sportsurge](https://v2.sportsurge.net/)
 ​
 #### Specialty Sites
 - [Einthusan](https://einthusan.tv/intro/) Foreign
@@ -790,17 +790,18 @@ premium services
 - [megaDDL](https://megaddl.co/) Mega, Go4up, 1Fichier, NitroFlare, Openload
 ​
 #### Youtube Streaming
--[Piped](https://piped.kavin.rocks/) :star2: A less-bloated ad-free [Youtube frontend](https://github.com/TeamPiped/Piped).
--[Invidious](https://invidious.io/) The original inspiration for piped. Depending on the host, it sometimes breaks. Still a decent option that doesn't rely on JavaScript. Ad-free
--[Newpipe](https://github.com/TeamNewPipe/NewPipe) A mobile ad-free frontend. No Google Dependencies. 
--[Newpipe with Sponsorblock and Return Youtube Dislikes](https://github.com/polymorphicshade/NewPipe) A Newpipe fork with Sponsorblock and Return Youtube Dislike functionality.
--[LibreTube](https://github.com/libre-tube/LibreTube) A mobile app built on Piped.
--[SkyTube](https://skytube-app.com/) An open-source YouTube™ app for Android™
--[ReVanced](https://github.com/ReVancedTeam) Continuing the legacy of Vanced (Not affiliated with Vanced team). Currently a Work in progress
--[VueTube](https://vuetube.app/) A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more). Work in Progress
+- [Piped](https://piped.kavin.rocks/) :star2: A less-bloated ad-free [Youtube frontend](https://github.com/TeamPiped/Piped).
+- [Invidious](https://invidious.io/) The original inspiration for piped. Depending on the host, it sometimes breaks. Still a decent option that doesn't rely on JavaScript. Ad-free
+- [Newpipe](https://github.com/TeamNewPipe/NewPipe) A mobile ad-free frontend. No Google Dependencies. 
+- [Newpipe with Sponsorblock and Return Youtube Dislikes](https://github.com/polymorphicshade/NewPipe) A Newpipe fork with Sponsorblock and Return Youtube Dislike functionality.
+- [LibreTube](https://github.com/libre-tube/LibreTube) A mobile app built on Piped.
+- [SkyTube](https://skytube-app.com/) An open-source YouTube™ app for Android™
+- [ReVanced](https://github.com/ReVancedTeam) Continuing the legacy of Vanced (Not affiliated with Vanced team). Currently a Work in progress
+- [VueTube](https://vuetube.app/) A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more). Work in Progress
 ​
 ## Media Centre Applications
-- [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
+- [Jellyfin](https://github.com/jellyfin/jellyfin) :star2: An open-source fork of Emby. A self-hostable media library 
+- [Plex](https://www.plex.tv/) Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
 - [Emby](https://emby.media/) a personal media server with apps on just about every device.
 - [Kodi](https://kodi.tv/) an award-winning free and open-source home theater/media center software and entertainment hub for digital media.
 - [OpenPHT](https://github.com/RasPlex/OpenPHT) a community-driven fork of Plex Home Theater
@@ -813,7 +814,7 @@ premium services
 - [OSMC](https://osmc.tv/) OSMC (short for Open Source Media Center) is a Linux distribution based on Debian that brings Kodi to a variety of devices.
 - [Subsonic](http://www.subsonic.org/pages/index.jsp) Music and movie streaming server with a client app and web frontend
 - [Rygel](https://wiki.gnome.org/Projects/Rygel) Rygel is a home media solution (UPnP AV MediaServer) that allows you to easily share audio, video, and pictures to other devices.
-- [jellyfin](https://github.com/jellyfin/jellyfin) An open-source fork of Emby
+
 ​
 ## Stremio
 - [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) Discussion and links pertaining to unofficial add-ons for Stremio
@@ -965,20 +966,15 @@ premium services
 ​
 ### ROMs
 - [Romsmania](https://romsmania.cc/) Good ROMs collection with a decent UI.
-- [Doperoms](https://www.doperoms.com/) Huge collection with over 170,000 ROM files. PS3 included.
 - [Vimm's Lair](https://vimm.net/?p=vault) Large collection of ROMs
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) Wiki page from gametechwiki.com with more links
 - [Romulation.net](https://www.romulation.net/) Collection of ~28,000 console game ROMs
-- [The Eye ROMs](http://the-eye.eu/public/rom/) Open directory of ROMs from The Eye
 - [myabandonware](https://www.myabandonware.com/) More than 14000 old games to download for free!
 - [Old Games Finder](http://www.oldgamesfinder.com/) Old Games Finder is an automated old game search engine. (avoid ISO Zone links, as that site is dead)
 - [The ROM Depot](https://theromdepot.com/roms/) About 3TB of ROMs. You may need a VPN.
 - [Emulator.Games](https://emulator.games/) Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
 - ["A simple script for easily downloading emulator.games roms"](https://www.reddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
-- [3DSISO](http://www.3dsiso.com/) Nintendo 3DS ROMs downloads forum.
-- [3DSCIA.com](https://www.3dscia.com/) DDL links for 3DS CIA files.
 - [Ziperto](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) DDL link site primarily for Nintendo games.
-- [New Yuzu Piracy](https://reddit.com/r/NewYuzuPiracy/) A revived subreddit of r/YuzuPiracy after the first got taken down.
 ​
 ### Console Games
 - [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) A place to share working Playstation 4 PKGs
@@ -1005,18 +1001,10 @@ premium services
 - [airsonic](https://airsonic.github.io/) Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
 - [Beets](http://beets.io/) The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database.
 - [gonic](https://github.com/sentriz/gonic) Music streaming server / subsonic server API implementation.
-- [LibreSonic](https://github.com/Libresonic/libresonic) Media streaming software
 ​
 ### Music Streaming
-- [Muxiv Music](https://muxiv.com/) Stream 45 million songs on all your devices, online or offline. Primarily Chinese content.
-- [Hikarinoakariost](https://hikarinoakari.com) Site with Japanese music
-- [mp3Clan](http://mp3guild.com/) Free music streaming
-- [GoSong](https://gosong.unblocked.gdn/) Streamable MP3s
-- [MP3Juices](https://mp3juices.unblocked.gdn/) MP3 search engine tool which uses YouTube
-- [mp3.li](http://mp3li.unblckd.club) Another MP3 streaming site
-- [SongsPK](https://songs-pk.in/) Mainly for downloading Bollywood songs. Domain changes frequently.
+- [Hikari no Akari](https://hikarinoakari.com) Site with Japanese music
 - [datmusic](https://datmusic.xyz/) Search engine with a clean UI for streaming music in your browser
-- [MusicPleer](https://musicpleer.la/) Another music streaming site with a decent search engine
 - [slider.kz](http://slider.kz/) Quirky and fast music streaming site
 ​
 ### Music Downloading
@@ -1035,14 +1023,15 @@ premium services
 - [YouTube to MP3](https://ytformp3.com/)
 ​
 ### Spotify
+- [SpotX](https://github.com/amd64fox/SpotX)
 - [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free
 - [Spotify Adblock](https://github.com/abba23/spotify-adblock) Block spotify ads on Linux. DOES NOT WORK WITH SNAP.
 - [Spotify Adblock on Fedora](https://note.rojenz.de/post/spotify-adblock-fedora-34/) Block spotify ads on Fedora Linux. Still does not work with snap.
-- [Spotify AdBlock Host file](https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/) :star2: This is the most up-to-date list and will block all annoying Spotify ads & analytics.
+- [Spotify AdBlock Host file](https://www.reddit.com/r/Piracy/comments/9tcbvc/spotify_adblock_host_file_uptodate_effective/) This is the most up-to-date list and will block all annoying Spotify ads & analytics.
 - [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) a Spotify Ad Blocker written in C# for Windows 7/8/10.
 - [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
 - [Spytify](https://jwallet.github.io/spy-spotify/) Records Spotify without ads while it plays and includes media tags and album cover to the recorded files
-- [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=4779753) Modded APK with no ads and AMOLED.
+- [xManager](https://xmanagerapp.com/) Modified spotify apks
 - [Downtify](https://github.com/eviabs/downtify-premium) Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify. Spotify Premium is required.
 - [ClSpotify](https://agent255.github.io/clspotifyweb/) A Spotify downloader needing only a python interpreter and ffmpeg.
 ​
@@ -1051,11 +1040,10 @@ premium services
 - [Requiem](https://digiex.net/threads/requiem-4-1-remove-itunes-drm-fairplay-from-music-video-and-books.11796/) Requiem is a program that removes Apple's DRM (called FairPlay) from songs, videos, and books purchased on iTunes
 - [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) HowToGeek article on how to use TunesKit and Requiem
 - [Plus Premieres](https://www.pluspremieres.eu/) Download newest iTunes music in M4A format
-- [forked-daapd](https://ejurgensen.github.io/forked-daapd/) Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
 ​
 ## Software
 - [/r/piracy/wiki/tools](https://www.reddit.com/r/piracy/wiki/tools) Windows/Office activation tools, and images/installers for Windows, Office, and Adobe
-- [nsane.down](https://www.nsanedown.com/) A popular file-sharing forum focused on software
+- [nsane.down](https://nsaneforums.com/) A popular file-sharing forum focused on software
 - [Appked](https://www.macbed.com/) Mac application sharing site
 - [Team-OS HKRG](https://www.teamos-hkrg.com/index.php) Windows software and various activation tools.
 - [CracksNow](https://cracksnow.com/) Cracks for Android, Windows, and macOS applications.
@@ -1074,17 +1062,14 @@ premium services
 - [Adobe Acrobat Pro DC](https://saidit.net/s/sjain_guides/comments/9p5/adobe_acrobat_pro_dc_full_indepth_guide_to/) Full in-depth guide to downloading, installing, activating and optimising.
 ​
 ### Windows
-- [/f/MSToolkit](https://raddle.me/f/MSToolkit) Tools for activating Windows software, including Windows 10 itself.
+- [Massgrave](https://massgrave.dev/) :star2: MAS, or Microsoft Activation Scripts, can activate/upgrade official versions of Microsoft Windows and Office
 - [Windows 10 Digital License](https://www.nsaneforums.com/topic/316668-microsoft-activation-scripts/) Scripts for activating Windows 10 "legitimately" by binding your HWID to a Microsoft account
-- [How to download and install Windows 10 LTSB](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition."
-- [TechBench](https://tb.rg-adguard.net/public.php) Find official Windows isos for Windows 7/8/10
-- [Windows 10 Digital License (HWID) & KMS38 Generation](https://web.archive.org/web/20190114172332/https://www.reddit.com/r/s1ave77_library/comments/9o13fq/windows_10_digital_license_hwid_kms38_generation/) Reddit guide by /u/s1ave77 with instructions on how to use HWID to activate various editions of Windows 10.
 ​
 ## Ebooks
+- [Anna's Archive](https://annas-archive.org/) :star2: A search engine of shadow libraries (Z-lib, libgen, Sci-hub)
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information.
 - [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library
 - [COPS](https://github.com/seblucas/cops) Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
-- [b-ok](http://b-ok.xyz/) Free ebook library
 - [The idiot-proof guide to downloading ebooks off IRC](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) Posted by /u/Servaplur
 - [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
 - [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) Everything you ever wanted to know about DRM and ebooks but were afraid to ask.

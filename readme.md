@@ -1231,9 +1231,11 @@ premium services
 - [Chibisafe](https://github.com/WeebDev/chibisafe) Blazing fast file uploader and awesome bunker written in node!
 ​
 ### 3rd Party Cloud Storage
+- [Filen](https://filen.io/) Encrypted file storage. You get 10 GB free
 - [Proton Drive](https://github.com/ProtonMail/WebClients) Beta Cloud Storage run by the same company as ProtonVPN.
 - [Crytp.ee](https://crypt.ee/) Made in europe, for your privacy, security & peace of mind. We can't read your documents or see your photos, and no one else can either.
 - [Skiff](https://skiff.org/) Productivity Suite, a private, end-to-end encrypted workspace.
+- [Mega](https://mega.io/) Another encrypted file storage. You get 20 GB free.
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
 - [rclone](https://rclone.org/) :star2: "rsync for cloud storage"
 - [plexdrive](https://github.com/dweidenfeld/plexdrive) mounts your Google Drive FUSE filesystem (optimized for media playback)
@@ -1253,6 +1255,7 @@ premium services
 - [MP3TAG](https://www.mp3tag.de/en/) Mp3tag is a powerful and easy-to-use tool to edit metadata of audio files.
 - [Picard](https://picard.musicbrainz.org/) Picard is a cross-platform music tagger written in Python.
 - [Beets](https://github.com/beetbox/beets) beets is a music library manager
+- [szyszka](https://github.com/qarmin/szyszka) Szyszka is fast and powerful file renamer
 - [Metatogger](https://www.luminescence-software.org/en/metatogger.html) Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.
 - [iFlicks2](https://iflicksapp.com/) Useful for adding metadata to movies and TV shows

@@ -598,7 +598,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new releases of software, games, music, movies, and eBooks.
 ​
 ### DDL Link Sites
-- [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
 - [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
 - [BlackPearl.biz](https://blackpearl.biz/) Drop-in replacement for snahp.it while their registrations remain closed
@@ -648,14 +647,12 @@ premium services
 ​
 ### Premium Link Hosts
 - [File sharing table](https://nafanz.github.io/) Regularly updated table of information about file hosts.
-- [Mega](https://mega.nz/) :star2:
 - [OpenLoad](https://openload.co/)
 - [RapidGator](https://rapidgator.net/)
 - [4shared](https://www.4shared.com/)
 - [Mediafire](https://www.mediafire.com/)
 - [Sendspace](https://www.sendspace.com/)
 - [Uploaded](https://uploaded.net/)
-- [Zippyshare](https://www.zippyshare.com/)
 - [NitroFlare](http://nitroflare.net/)
 - [PutLocker](https://www5.putlockertv.to/)
 ​
@@ -1235,7 +1232,7 @@ premium services
 - [Proton Drive](https://github.com/ProtonMail/WebClients) Beta Cloud Storage run by the same company as ProtonVPN.
 - [Crytp.ee](https://crypt.ee/) Made in europe, for your privacy, security & peace of mind. We can't read your documents or see your photos, and no one else can either.
 - [Skiff](https://skiff.org/) Productivity Suite, a private, end-to-end encrypted workspace.
-- [Mega](https://mega.io/) Another encrypted file storage. You get 20 GB free.
+- [Mega](https://mega.io/) 20 GB free.
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) FUSE filesystem over Google Drive
 - [rclone](https://rclone.org/) :star2: "rsync for cloud storage"
 - [plexdrive](https://github.com/dweidenfeld/plexdrive) mounts your Google Drive FUSE filesystem (optimized for media playback)

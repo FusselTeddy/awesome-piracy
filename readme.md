@@ -930,6 +930,7 @@ premium services
 - [/r/CrackWatch](https://reddit.com/r/CrackWatch/) New video game crack releases are posted here
 - [/r/piratedgames](https://reddit.com/r/PiratedGames/) Talk about gaming piracy.
 - [/r/piratedgames megathread](https://rentry.co/pgames-mega-thread) :star2: Curated list of trustworthy sources along with which places to avoid.
+- [/r/piracy megathread](https://old.reddit.com/r/Piracy/wiki/megathread) :star2: r/piracy's megathread, updated for 2022
 - [Beginners Guide to Crack Watch](https://www.reddit.com/r/CrackWatch/comments/a7l141/crack_watch_beginners_guide_to_crack_watch/) Reddit post by /u/EssenseOfMagic
 - [GOD scraped URLs](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view) All DDL links for games listed on the now-dead GoodOldDownloads site.
 - [Free GOG PC Games](http://freegogpcgames.com/) Magnet links site to download games from GOG.

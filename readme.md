@@ -3,7 +3,9 @@
 > A curated list of arrrrrrrrr!
 ​
 ## Preamble
-I forked this from [Igglybuff's Awesome Piracy list](https://github.com/Igglybuff/awesome-piracy). I just took this and decided to update it, replace dead links, etc. I'm getting far too lazy to update this, so just go to [this guy's list](https://github.com/Shakil-Shahadat/awesome-piracy)
+I forked this from [Igglybuff's Awesome Piracy list](https://github.com/Igglybuff/awesome-piracy). I just took this and decided to update it, replace dead links, etc. 
+
+# I'm getting far too lazy to update this, so just go to [this guy's list](https://github.com/Shakil-Shahadat/awesome-piracy)
 
 I'm also mirroring this onto [rentry](https://rentry.org/tosoju-awesome-piracy). [My github repo](https://github.com/Tosoju/awesome-piracy)
 ​
